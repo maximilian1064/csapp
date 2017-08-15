@@ -53,3 +53,6 @@ dkms.conf
 
 # Directories
 temp/
+
+# misc
+.ycm_extra_conf.py
